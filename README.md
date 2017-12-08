@@ -1,0 +1,2 @@
+# testAppInit
+for test purpose
